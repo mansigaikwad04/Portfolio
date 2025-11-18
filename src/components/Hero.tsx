@@ -20,7 +20,7 @@ export default function Hero() {
        <div style={{ marginTop: 18, display: "flex", gap: 12 }}>
   <a
     className="btn"
-    href="/Mansi_Gaikwad_04.pdf"
+    href="/Mansi_Gaikwad_04_.pdf"
     download
   >
     Download Resume
